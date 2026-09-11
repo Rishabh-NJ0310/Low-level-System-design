@@ -22,17 +22,17 @@ lld-patterns/ \
 │   └── dependency-inversion/ \
 │ \
 ├── creational/ \
-│   ├── singleton/ \ 
+│   ├── singleton/ \
 │   ├── factory/ \
 │   ├── abstract-factory/ \
 │   ├── builder/ \
 │   └── prototype/ \
 │ \
-├── structural/ \ 
+├── structural/ \
 │   ├── adapter/ \
 │   ├── decorator/ \
 │   ├── proxy/ \
-│   ├── composite/ \ 
+│   ├── composite/ \
 │   ├── facade/ \
 │   ├── flyweight/ \
 │   ├── bridge/ \
@@ -45,7 +45,7 @@ lld-patterns/ \
 │   ├── template-method/ \
 │   ├── iterator/ \
 │   ├── state/ \
-│   ├── mediator/ \ 
+│   ├── mediator/ \
 │   ├── memento/ \
 │   └── chain-of-responsibility/ \
 │ \
